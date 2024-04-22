@@ -1,4 +1,4 @@
-Summary: 
+**Summary**: 
 The project explores building simulation algorithms of Swarm Robotics by leveraging ground robots and drones in an Agent-Based Model to improve yield optimization. The algorithms focus on:
 efficiency and effectiveness in communication between the drones and ground robots
 path planning, optimization, and coordination
