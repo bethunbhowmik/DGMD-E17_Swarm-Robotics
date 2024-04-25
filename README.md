@@ -17,8 +17,9 @@ We have used an iterative and agile framework for coding. First, we achieved swa
 In the simulation the outputs tracked are number of weeds left (should be 0), active robots, and total energy consumed. We also plot the number of weeds over time. 
 
 **Simulation**:
-Please refer [Swarm_R1.4.nlogo](https://github.com/bethunbhowmik/DGMD-E17_Swarm-Robotics/blob/main/Swarm_R1.4.nlogo) for the simulation. You may need to download the Netlogo file and install Netlogo on your machine. The input parameters can be updated by the user on sliders. Once done, click on setup and then click on Go. The code for the simulation can be seen by clicing on the code tab in Netlogo.
+Please refer [Swarm_R1.4.nlogo](https://github.com/bethunbhowmik/DGMD-E17_Swarm-Robotics/blob/main/Swarm_R1.4.nlogo) for the simulation. You may need to download the Netlogo file and [install Netlogo](https://ccl.northwestern.edu/netlogo/download.shtml) on your machine. Alternatively you can upload the [Netlogo file](https://github.com/bethunbhowmik/DGMD-E17_Swarm-Robotics/blob/main/Swarm_R1.4.nlogo) in the web browser [here](https://netlogoweb.org/). The input parameters can be updated by the user on sliders. Once done, click on setup and then click on Go. The code for the simulation can be seen by clicing on the code tab in Netlogo.
 The [demo video](https://github.com/bethunbhowmik/DGMD-E17_Swarm-Robotics/blob/main/Demo_Swarm%20Robotics.mp4) also gives an idea of the simulation progress through stages. 
+Link to download Netlogo for the simulation: 
 
 **Analysis**:
 We have run scanario analysis by using the Behavior Space tool in Netlogo. The raw data file running analysis on overall time and energy consumed by changing input parameters can be found [here](https://github.com/bethunbhowmik/DGMD-E17_Swarm-Robotics/blob/main/Swarm_R1.3%20experiment.csv).
